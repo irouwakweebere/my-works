@@ -1,0 +1,40 @@
+body{
+    background-color: whitesmoke;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: px;
+    
+}
+#point{
+    background-image: url('../IMG/PIC5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height:200vh
+}
+
+.formbody{
+    background-color: aqua;
+    padding: 10px;
+}
+
+.form{
+  background-color: blueviolet;
+    color: rgb(149, 89, 10);
+    padding: 5px;
+}
+.lant{
+    background-color: lightgrey;
+    width:300px ;
+    border: 10px solid rgba(165, 42, 42, 0.812);
+    padding: 10px;
+    margin: 10px;
+    font-family: italics;
+}
+#me{
+    color: rgba(165, 42, 42, 0.909);
+}
+.matr{
+    color: rgba(165, 42, 42, 0.907);
+}

@@ -1,0 +1,42 @@
+#MATHA{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.PEACE{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+#COLOR{
+    background-color: blue;
+}
+.dot{
+    margin-bottom:0px 0px 0px 100px;
+    border: 1px solid black;
+}
+#MAT{
+    margin-bottom:0px 0px 0px 100px;
+    border: 1px solid black;
+}
+#math{
+    margin-bottom:0px 0px 0px 200px;
+    border: 1px solid black;
+}
+.tert{
+    border-right: 7px;
+}
+.thye{
+    text-underline-position: above;
+}
+#TER{
+    display: flex;
+    justify-content: space-between;
+}
+#thr{
+    background-color: lightgrey;
+    width:300px ;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}

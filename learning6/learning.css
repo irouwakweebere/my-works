@@ -1,0 +1,159 @@
+
+
+#hatre{
+    color: orange;
+    font-size: 30px;
+}
+div span{
+    color: rgba(165, 42, 42, 0.893);
+    
+}
+.post{
+    background-color: bisque;
+    padding: 10px 50px;
+    
+}
+.nav-warp{
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: center;
+    padding:12px;
+    background: #f0e2d0;
+    border-radius: 20px;
+    width: fit-content;
+    margin: auto;
+}
+.nav-btn{
+
+    text-decoration: none;
+    color: #7a4a2a;
+    background: #fff;
+    padding: 10px 18px;
+    border-radius: 999px;
+    border: 1px solid #ead7c6;
+    font-size: 14px;
+    font-weight: 600;
+    transition: 0.3s ease;
+    text-align: center;
+}
+#night{
+    background-color: rgba(255, 68, 0, 0.138);
+    color: rgba(255, 68, 0, 0.49);
+    border-radius: 12px;
+    padding: 10px 18px;
+    text-align: left;
+    width: fit-content;
+}
+.potr{
+    font-size: 30px;
+    color:rgba(165, 42, 42, 0.824) ;
+}
+h2 span{
+    color: black;
+}
+p{
+    color: rgba(165, 42, 42, 0.805);
+}
+.month{
+    background: rgba(165, 42, 42, 0.702);
+    color: white;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 18px;
+}
+#kude{
+display: flex;
+gap: 30px;
+}
+.jkswj{
+    background: rgba(165, 42, 42, 0.702);
+    color: white;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 18px;
+}
+#learn{
+    color: #7a4a2a;
+    
+}
+#service{
+    color: #7a4a2a;
+}
+   
+#shop{
+    color: #7a4a2a;
+   
+}
+
+#hmmm{
+    color: rgb(181, 75, 36);
+}
+
+#undetr{
+    background-color: rgb(180, 60, 17);
+    text-align: center;
+    display: block;
+    color: whitesmoke;
+    width:500px ;
+    height: 200px;padding: 0px;
+    margin: 0;
+}
+.kfil{
+    text-align: left;
+}
+.class{
+    color: rgba(245, 245, 245, 0.872);
+}
+.mtsu{
+    color:black;
+    text-align: center;
+   
+}
+h3{
+    color: rgba(245, 245, 245, 0.864);
+}
+DIV{
+    display: flex;
+}
+
+.conFooter{
+   
+    justify-content: space-between;
+}
+.BOX{
+    display: block;
+    color:rgba(255, 68, 0, 0.885);
+}
+.anchor{
+    display: flex;
+    flex-direction: column;
+}
+   
+
+    
+.anchor a{
+    width: fit-content;
+    text-decoration: none;
+    margin: 3px 0;
+    color: black;
+}
+h3{
+    color: rgb(111, 14, 14);
+}
+.maiiyu{
+    text-decoration: none;
+    color: #7a4a2a;
+    background: #fff;
+    padding: 10px 18px;
+    border-radius: 999px;
+    border: 1px solid #ead7c6;
+    font-size: 14px;
+    font-weight: 600;
+    transition: 0.3s ease;
+    text-align: center;
+   
+}
+#mathus{
+    color: whitesmoke;
+}
