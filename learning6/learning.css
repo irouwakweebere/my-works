@@ -3,6 +3,7 @@
 #hatre{
     color: orange;
     font-size: 30px;
+    margin-left: 0px;
 }
 div span{
     color: rgba(165, 42, 42, 0.893);
@@ -75,6 +76,7 @@ gap: 30px;
 }
 #learn{
     color: #7a4a2a;
+    background-color: rgba(255, 166, 0, 0.635);
     
 }
 #service{
