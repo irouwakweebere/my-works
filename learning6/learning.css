@@ -77,6 +77,7 @@ gap: 30px;
 #learn{
     color: #7a4a2a;
     background-color: rgba(255, 166, 0, 0.635);
+    border-image: linear-gradient(to right, #0066ff, #ff32d6) 1 1 1 1;
     
 }
 #service{
